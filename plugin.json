@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themebonbon",
+  "name": "Thème Bonbons",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Une confiserie : rayures de sucre d’orge, coins tout ronds, couleurs acidulées, tuiles qui rebondissent. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "bonbon",
+      "name": "Bonbons",
+      "style": "bonbon",
+      "hue": 330,
+      "sat": 40,
+      "accent": "#ff7eb6",
+      "light": "#7ef5d2",
+      "third": "#ffe066",
+      "lift": 2.8,
+      "about": "Une confiserie : rayures de sucre d’orge, coins tout ronds, couleurs acidulées, tuiles qui rebondissent."
+    }
+  ]
+}
