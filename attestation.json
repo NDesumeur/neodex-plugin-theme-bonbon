@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themebonbon",
+  "repo": "NDesumeur/neodex-plugin-theme-bonbon",
+  "version": "1.0.0",
+  "sha256": "437bdc94f8c1b222c3f105728fa35096d7e74c5132e80d5cf7cb63bfd34a478e",
+  "approvedAt": "2026-11-22T19:05:25.647Z",
+  "neobase": ">=4.1.0",
+  "signature": "fzqB/YsvS5yn0G5hWQfFu15h5nQ57w3B7lPWMp54ydcdGDxO43tzkoRSDhQm8bv3YZfikGF4tiAxvDT+5SVUCw=="
+}
